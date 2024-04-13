@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextBox/static/css/main.f855e6bc.css",
+    "main.js": "/TextBox/static/js/main.bd306407.js",
+    "static/js/453.0a896929.chunk.js": "/TextBox/static/js/453.0a896929.chunk.js",
+    "index.html": "/TextBox/index.html",
+    "main.f855e6bc.css.map": "/TextBox/static/css/main.f855e6bc.css.map",
+    "main.bd306407.js.map": "/TextBox/static/js/main.bd306407.js.map",
+    "453.0a896929.chunk.js.map": "/TextBox/static/js/453.0a896929.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bd306407.js"
+  ]
+}
